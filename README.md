@@ -1,2 +1,4 @@
-# animal-rescue-simulation
-a simulation of rescuing animals from a jungle that is not their natural habitat by using NetLogo
+##Introduction
+This project is a simulation of rescuing animals from a jungle that is not their natural habitat. This scenario could happen under different circumstances like animals running away from their natural habitat to another jungle due to fire or flood, or an accident in transporting the animals. I have used NetLogo to develop this project.
+##Scenario
+In this project, the animals that need rescue are baby chimpanzees. They are scattered in a jungle. By instinct, they like to go to the trees to find fruits to eat, when they are not hungry there is a small possibility that they leave the trees. Tigers are the dominant predators in this jungle, and they can kill baby chimps easily. Another important animal in this jungle is the panda, they do not harm the chimps, but the tigers are afraid of their size and they try to stay away from them. Also, a rescue team is dispatched to the area, if they find a baby chimp, they pick it up, but if they see a tiger, they shoot tranquilizer darts at the animal which puts it in sleep for a while. furthermore, there are some rocks as obstacles scattered in the area.
